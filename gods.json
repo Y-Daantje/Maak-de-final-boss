@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Achilles",
+        "release date": "27022018",
+        "pantheon": "Greek",
+        "role": "Warrior",
+        "type": "Physical",
+        "basic attack type": "Melee",
+        "seasons": {}
+    },
+    {
+        "name": "Agni",
+        "release date": "21052012",
+        "pantheon": "Hindu",
+        "role": "Mage",
+        "type": "Magical",
+        "basic attack type": "Ranged",
+        "seasons": {}
+    },
+    {
+        "name": "Amaterasu",
+        "release date": "12012016",
+        "pantheon": "Japanese",
+        "role": "Warrior",
+        "type": "Melee",
+        "basic attack type": "Ranged",
+        "seasons": {}
+    },
+    {
+        "name": "Anhur",
+        "release date": "03082012",
+        "pantheon": "Egyptian",
+        "role": "Hunter",
+        "type": "Physical",
+        "basic attack type": "Ranged",
+        "seasons": {}
+    },
+    {
+        "name": "Anubis",
+        "release date": "31052012",
+        "pantheon": "Egyptian",
+        "role": "Mage",
+        "type": "Magical",
+        "basic attack type": "Ranged",
+        "seasons": {}
+    },
+    {
+        "name": "Ao Kuang",
+        "release date": "19112014",
+        "pantheon": "Chinese",
+        "role": "Mage",
+        "type": "Magical",
+        "basic attack type": "Melee",
+        "seasons": {}
+    },
+    {
+        "name": "Ganesha",
+        "release date": "25042017",
+        "pantheon": "Hindu",
+        "role": "Guardian",
+        "type": "Magical",
+        "basic attack type": "Melee",
+        "seasons": {}
+    },
+    {
+        "name": "Loki",
+        "release date": "02112012",
+        "pantheon": "Norse",
+        "role": "Assassin",
+        "type": "Physical",
+        "basic attack type": "Melee",
+        "seasons": {}
+    },
+    {
+        "name": "Rama",
+        "release date": "24062014",
+        "pantheon": "Hindu",
+        "role": "Hunter",
+        "type": "Physical",
+        "basic attack type": "Range",
+        "seasons": {}
+    },
+    {
+        "name": "Ravana",
+        "release date": "30062015",
+        "pantheon": "Hindu",
+        "role": "Assassin",
+        "type": "Physical",
+        "basic attack type": "Melee",
+        "seasons": {}
+    }
+]

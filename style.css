@@ -1,6 +1,26 @@
-header{
+header {
     border: 2px solid orange;
     text-align: center;
+    grid-area: hd;
+}
+
+.main {
+    display: grid;
+    grid-template-areas:
+        'hd '
+        'lb'
+        'mn '
+        'rb'
+        'ft'
+    ;
+}
+
+.left-border {
+    grid-area: lb;
+}
+
+.right-border {
+    grid-area: rb;
 }
 
 
@@ -9,6 +29,10 @@ header{
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     list-style: none;
     gap: 10px;
+    grid-area: mn;
+    margin: 0;
+    padding: 0;
+    /* justify-content: center; */
 }
 
 .listing li {
@@ -16,6 +40,7 @@ header{
     border-radius: 5px;
     display: flex;
     flex-direction: column;
+
 }
 
 .listing li h2 {
@@ -40,4 +65,48 @@ header{
 
 .listing .body {
     padding: 10px;
+}
+
+.box {
+    border: 2px solid orange;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    border: 2px solid orange;
+    text-align: center;
+    padding: 10px;
+    grid-area: ft;
+}
+
+@media screen and (min-width:768px) {
+    .main {
+        grid-template-areas:
+            'hd hd'
+            'lb mn'
+            'lb mn'
+            'mn rb'
+            'ft ft'
+        ;
+    }
+
+    .right-border {
+        display: block;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .main {
+        grid-template-areas:
+            'hd hd hd'
+            'lb mn rb'
+            'lb mn rb'
+            'ft ft ft'
+        ;
+    }
+
+    .right-border {
+        display: block;
+    }
 }
