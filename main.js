@@ -1,12 +1,29 @@
-fetch('gods.json')
-.then(myData => myData.Json())
-.then(myData1 => showInConsole(JsonData));
-console.log(myData1);
+fetch("json/gods.json")
+    .then(myData => myData.json())
+    .then(jsonData => createCard(jsonData))
 
-
-function createCard() {
-    for (let i = 0; i < array.length; i++) {
-        const card = array[i];
+function createCard(jsonData) {
+    const list = document.querySelector(".listing");
+    for (let i = 0; i < jsonData.length; i++) {
+        list.innerHTML +=
+            `
+        <li>
+        <h2>${jsonData[i].name}</h2>
+        <div class="body">
+        <img src="${jsonData[i].image}">
+        </img>
+        <p>
+        ${jsonData[i].releaseDate}
+        </p>
+        <p>
+        ${jsonData[i].role}
+        </p>
         
-    }
+        </div>
+        <div class="cta">
+        <a href="">klik hier!</a>
+        </div>
+        </li>
+        `
+    };
 }

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Achilles",
+        "releaseDate": "27022018",
+        "pantheon": "Greek",
+        "role": "Warrior",
+        "type": "Physical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://www.superherodb.com/pictures2/portraits/10/100/14144.jpg?v=1674764459"
+    },
+    {
+        "name": "Agni",
+        "releaseDate": "21052012",
+        "pantheon": "Hindu",
+        "role": "Mage",
+        "type": "Magical",
+        "basicAttackType": "Ranged",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.yk0amXmqg0RbvISoolQKdgHaJ4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Amaterasu",
+        "releaseDate": "12012016",
+        "pantheon": "Japanese",
+        "role": "Warrior",
+        "type": "Melee",
+        "basicAttackType": "Ranged",
+        "seasons": {},
+        "image": "https://i.pinimg.com/736x/c2/ca/e2/c2cae21ca79dd8f8c2061030e8978759--amaterasu-gods-and-goddesses.jpg"
+    },
+    {
+        "name": "Anhur",
+        "releaseDate": "03082012",
+        "pantheon": "Egyptian",
+        "role": "Hunter",
+        "type": "Physical",
+        "basicAttackType": "Ranged",
+        "seasons": {},
+        "image": "https://i.pinimg.com/originals/84/9f/da/849fda6676de58d41910bcc6f4df95ac.jpg"
+    },
+    {
+        "name": "Anubis",
+        "releaseDate": "31052012",
+        "pantheon": "Egyptian",
+        "role": "Mage",
+        "type": "Magical",
+        "basicAttackType": "Ranged",
+        "seasons": {},
+        "image": "https://i.pinimg.com/736x/01/28/d8/0128d85416aa70ca1e70794b677b3806--zbrush-character-character-reference.jpg"
+    },
+    {
+        "name": "Ao Kuang",
+        "releaseDate": "19112014",
+        "pantheon": "Chinese",
+        "role": "Mage",
+        "type": "Magical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3b/SkinArt_AoKuang_Default.jpg"
+    },
+    {
+        "name": "Ganesha",
+        "releaseDate": "25042017",
+        "pantheon": "Hindu",
+        "role": "Guardian",
+        "type": "Magical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://www.xafarstudio.com/wp-content/uploads/2021/08/Happy-Ganesh-Chaturthi-1.jpg"
+    },
+    {
+        "name": "Loki",
+        "releaseDate": "02112012",
+        "pantheon": "Norse",
+        "role": "Assassin",
+        "type": "Physical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.DrcjVq4ool_nvnmHNbPkEAHaJ4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Rama",
+        "releaseDate": "24062014",
+        "pantheon": "Hindu",
+        "role": "Hunter",
+        "type": "Physical",
+        "basicAttackType": "Range",
+        "seasons": {},
+        "image": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/0/00/SkinArt_Rama_Default.jpg/500px-SkinArt_Rama_Default.jpg?version=d66de86aa0ff89f30310b2419ac13d47"
+    },
+    {
+        "name": "Ravana",
+        "releaseDate": "30062015",
+        "pantheon": "Hindu",
+        "role": "Assassin",
+        "type": "Physical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.18489632e54b31cfdb93faf27cc38658?rik=0bhJfDZJWFeYxg&riu=http%3a%2f%2fimages.mein-mmo.de%2fmagazin%2fmedien%2f2015%2f07%2fRavana.jpg&ehk=E5vBAc5vFYDsVksrGBNX7PbehbXZmCOYMFjourAzsdA%3d&risl=&pid=ImgRaw&r=0"
+    }
+]
