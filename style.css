@@ -1,3 +1,7 @@
+body{
+    background-color: black;
+}
+
 header {
     border: 2px solid orange;
     text-align: center;
@@ -21,6 +25,10 @@ header {
 
 .right-border {
     grid-area: rb;
+}
+
+p{
+    color: white;
 }
 
 
