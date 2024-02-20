@@ -1,4 +1,4 @@
-fetch("jsongods/gods.json")
+fetch("json/gods.json")
     .then(myData => myData.json())
     .then(jsonData => createCard(jsonData))
 

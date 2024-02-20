@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Conquest",
+    "description": "In Conquest, two teams of five players fight off in a three-laned map. This is a typical MOBA mode with two bases at opposite sides of the map connected by three lanes. Each lane is protected by two towers and a Phoenix. The main objective of this mode is for players to assault the enemy defenses and destroy the Titan at the center of their base, while preventing the enemy from destroying theirs. The first team to destroy the enemy Titan wins.",
+    "image": "https://th.bing.com/th/id/OIP.cd0GCFEf4Z0PTi6oIXmUggHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Arena",
+    "description": "In Arena, two teams of five players in a small arena with no lanes nor towers. There are no Titans in this mode. Instead, to win, the players' objective is to reduce the enemy team's ticket counter to 0. Each team starts with 500 tickets and there are specific rules for reducing enemy tickets. There are two exits to each base located on the leftmost and rightmost sides. There is an invulnerable Phoenix protecting each entrance. There are also neutral buff camps on the left and right sides of the arena.",
+    "image": "https://assets.tentonhammer.com/app/public/ckeditor/picture/000/048/095/content/smitegamemode-arena.jpg"
+  },
+  {
+    "name": "Assault",
+    "description": "In Assault, two teams of five players are pitted against each other in a single lane. There are no jungle camps and the only goal is to push the minion waves and destroy all of the enemy's structures with the game ending at the death of a Titan. Unlike other modes, the game picks a random God for each player. Players can re-roll their god, causing the game to select a different random one. Gods can also be swapped between players.",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/smite/d/d8/Assault_map.jpg"
+  },
+  {
+    "name": "Joust",
+    "description": "Joust is a 3v3 Game Mode. There are jungle camps on the sides of the map and only one short lane protected by one tower and a phoenix. The objective is to destroy the enemy's defenses, and ultimately their Titan.",
+    "image": "https://images.wikia.com/smite_gamepedia/images/thumb/0/04/2016-01-05_175834.jpg/1200px-2016-01-05_175834.jpg"
+  },
+  {
+    "name": "Clash",
+    "description": "Clash used to be a regular mode that was removed from the game on January 25, 2022. Players could expect to meet each other in the middle of the map which provided quick access to the major objectives, both lanes, and a central Damage (red) Buff that players would have to fight over. The layout meant players would be fighting often and in large numbers, while looking for opportunities to push down the enemy team's defenses. Standard lane minions spawned at the regular intervals and sizes, but for every 100 points a team earned, a Siege Juggernaut was spawned. Each team could earn points by accomplishing certain tasks. This super-sized monster had a large health pool and deals bonus damage to enemy structures. It was also possible to spawn a Siege Juggernaut by killing the neutral Wild Juggernaut in the center of the map.",
+    "image": "https://th.bing.com/th/id/R.6b9ce2ec2b7b9be37b5db76dba208ca1?rik=Hj7uOuVBThv6CQ&pid=ImgRaw&r=0"
+  }
+]

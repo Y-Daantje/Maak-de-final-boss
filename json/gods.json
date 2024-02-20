@@ -102,7 +102,7 @@
     {
         "name": "Aphrodite",
         "releaseDate": "20131303",
-        "pantheon": "Grrek",
+        "pantheon": "Greek",
         "role": "Mage",
         "type": "Magical",
         "basicAttackType": "Range",
@@ -124,7 +124,7 @@
         "releaseDate": "30062015",
         "pantheon": "Greek",
         "role": "Hunter",
-        "type": "Ranged,Physical",
+        "type": "Ranged",
         "basicAttackType": "Melee",
         "seasons": {},
         "image": "https://th.bing.com/th/id/OIP.Kcc73jTERzv4jIjQ9oGVJQHaJ4?rs=1&pid=ImgDetMain"
@@ -258,5 +258,125 @@
         "basicAttackType": "Melee",
         "seasons": {},
         "image": "https://th.bing.com/th/id/OIP.botY7oefGleDSGE7zzkQ8QHaJu?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Camazotz",
+        "releaseDate": "11092016",
+        "pantheon": "Maya",
+        "role": "Assassin",
+        "type": "Physical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.a62b5351f8ccfd6c9a2ce317b19510e4?rik=V2ZA3Oxr6FnT9A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Cerberus",
+        "releaseDate": "09012018",
+        "pantheon": "Greek",
+        "role": "Guardian",
+        "type": "Magical",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.ed72eca9cb46f18a5a9a2d6582cfe9cc?rik=9%2f6gikX4yiR8Zg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Cernunnos",
+        "releaseDate": "",
+        "pantheon": "Celtic",
+        "role": "Hunter",
+        "type": "Ranged",
+        "basicAttackType": "Physical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.e0ccc52f3399b853f5edde1a3c5b1f20?rik=VjaxOmZOFOb8gQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chaac",
+        "releaseDate": "18122013",
+        "pantheon": "Maya",
+        "role": "Warrior",
+        "type": "Melee",
+        "basicAttackType": "Physical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.3017d7a8a4800e671b3f7ad7804d3044?rik=caeRzmi3JyFIcg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chang'e",
+        "releaseDate": "24062013",
+        "pantheon": "Chinese",
+        "role": "Mage",
+        "type": "Ranged",
+        "basicAttackType": "Melee",
+        "seasons": {},
+        "image": "https://vignette.wikia.nocookie.net/heroes-of-camelot/images/8/87/Chang'e.png/revision/latest?cb=20140908222552"
+    },
+    {
+        "name": "Charon",
+        "releaseDate": "11062023",
+        "pantheon": "Greek",
+        "role": "Guardian",
+        "type": "Ranged",
+        "basicAttackType": "Magical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.pIQgy-WQ6HpSvOZZTG-PZgAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Charybdis",
+        "releaseDate": "",
+        "pantheon": "Greek",
+        "role": "Hunter",
+        "type": "Ranged",
+        "basicAttackType": "Physical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.d204dab0a068bf125c7ca4301cd36d99?rik=ffiMkLBP4b%2bqlg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chernobog",
+        "releaseDate": "15052018",
+        "pantheon": "Slavic",
+        "role": "Hunter",
+        "type": "Ranged",
+        "basicAttackType": "Physical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.PD6sLRKotNngTSvdeI9qGAAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Chiron",
+        "releaseDate": "17102015",
+        "pantheon": "Greek",
+        "role": "Hunter",
+        "type": "Ranged",
+        "basicAttackType": "Physical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/R.5b9e10f7834aa39e1ac1075c099d0501?rik=RZyaReq9Y32ALg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chronos",
+        "releaseDate": "10072012",
+        "pantheon": "Greek",
+        "role": "Mage",
+        "type": "Ranged",
+        "basicAttackType": "Magical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.Vn-EAVv3doSewvYWSmeRLwHaJ4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Cliodhna",
+        "releaseDate": "19082011",
+        "pantheon": "Celtic",
+        "role": "Assassin",
+        "type": "Melee",
+        "basicAttackType": "Physical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.fnSQ5REzJdUNX51FAAbW8AAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Cthulhu",
+        "releaseDate": "16062020",
+        "pantheon": "Great Old Ones",
+        "role": "Guardian",
+        "type": "Melee",
+        "basicAttackType": "Magical",
+        "seasons": {},
+        "image": "https://th.bing.com/th/id/OIP.Y2ZHRJApf319IA498fFWDAHaJ4?rs=1&pid=ImgDetMain"
     }
 ]
