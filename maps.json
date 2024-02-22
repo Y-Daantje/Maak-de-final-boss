@@ -1,0 +1,154 @@
+[
+  {
+    "name": "CIRCUIT ROYAL",
+    "description": "Circuit Royal is an escort map which takes place in 3 main locations: The Casino Front, A Vertical Curving Racetrack, and the Hotel.",
+    "type": "Escort",
+    "image": "https://d1fytg1nnnd8c0.cloudfront.net/wp-content/uploads/2022/04/circuitroyal.jpg"
+  },
+  {
+    "name": "HAVANA",
+    "description": "Havana is an Escort Map which takes place in three main locations: The City Streets, the Distillery, and the Sea Fort. Havana (Spanish: La Habana) is the capital city of Cuba. It is home to the Don Rumbotico distillery and the Havana Sea Fort, both locations considered iconic of the local area.",
+    "type": "Escort",
+    "image": "https://us.v-cdn.net/5021068/uploads/editor/8s/acjpwdd89msb.jpg"
+  },
+  {
+    "name": "SHAMBALI MONASTERY",
+    "description": "In our new Escort map, Shambali Monastery, we'll ascend the winding path walked by countless Omnics who have sought refuge within its walls. Transcend your opponents in a battle for mastery over the one-time home of Zenyatta and Ramattra.",
+    "type": "Escort",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/shambali-monastery.jpg "
+  },
+  {
+    "name": "BLIZZARD WORLD",
+    "description": "The map starts off with a payload in the Warcraft staging area. The defenders start in the Heroes Arcade, while attackers spawn in the Hearthstone Tavern. The attackers have to push the payload along into the StarCraft section of the theme park, which is a circular plaza with an upper level of bridges and walkways. Here, as with the Warcraft section, taking the high ground is the key to victory. The payload enters the Diablo area last, which consists of numerous smashable barrels.",
+    "type": "Hybrid",
+    "image": "https://th.bing.com/th/id/R.43f9d3568315adc9a39ca288ae7f3b12?rik=I1VxsTEQPp395Q&riu=http%3a%2f%2fmedia.comicbook.com%2f2018%2f01%2foverwatch-blizzard-2-1075363.jpeg&ehk=fhOo7LqynBCH5EDHyfsuwtWY0PyRA6vV%2fMt0xr9D19E%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "gibof",
+    "name": "Gibraltar",
+    "type": "Escort",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg"
+  },
+  {
+    "id": "gibdef",
+    "name": "Gibraltar",
+    "type": "Escort",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg"
+  },
+  {
+    "id": "dorof",
+    "name": "Dorado",
+    "type": "Escort",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg"
+  },
+  {
+    "id": "dordef",
+    "name": "Dorado",
+    "type": "Escort",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg"
+  },
+  {
+    "id": "rouof",
+    "name": "Route 66",
+    "type": "Escort",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg"
+  },
+  {
+    "id": "roudef",
+    "name": "Route 66",
+    "type": "Escort",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg"
+  },
+  {
+    "id": "anuof",
+    "name": "Temple of Anubis",
+    "type": "Assault",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg"
+  },
+  {
+    "id": "anudef",
+    "name": "Temple of Anubis",
+    "type": "Assault",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg"
+  },
+  {
+    "id": "hanof",
+    "name": "Hanamura",
+    "type": "Assault",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg"
+  },
+  {
+    "id": "handef",
+    "name": "Hanamura",
+    "type": "Assault",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg"
+  },
+  {
+    "id": "volof",
+    "name": "Volskaya",
+    "type": "Assault",
+    "mode": "O",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg"
+  },
+  {
+    "id": "voldef",
+    "name": "Volskaya",
+    "type": "Assault",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg"
+  },
+  {
+    "id": "kindef",
+    "name": "King's Row",
+    "type": "Hybrid",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/kings-row-thumb.jpg"
+  },
+ 
+  {
+    "id": "numdef",
+    "name": "Numbani",
+    "type": "Hybrid",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/numbani-thumb.jpg"
+  },
+  
+  {
+    "id": "holdef",
+    "name": "Hollywood",
+    "type": "Hybrid",
+    "mode": "D",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hollywood-thumb.jpg"
+  },
+  {
+    "id": "lij",
+    "name": "Lijiang",
+    "type": "KOTH",
+    "mode": "KOTH",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/lijiang-thumb.jpg"
+  },
+  {
+    "id": "nep",
+    "name": "Nepal",
+    "type": "KOTH",
+    "mode": "KOTH",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/nepal-thumb.jpg"
+  },
+  {
+    "id": "ill",
+    "name": "Illios",
+    "type": "KOTH",
+    "mode": "KOTH",
+    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/ilios-thumb.jpg"
+  }
+]

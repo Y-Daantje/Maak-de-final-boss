@@ -1,4 +1,4 @@
-fetch("json/gods.json")
+fetch("maps.json")
     .then(myData => myData.json())
     .then(jsonData => createCard(jsonData))
 
@@ -13,10 +13,10 @@ function createCard(jsonData) {
         <img src="${jsonData[i].image}">
         </img>
         <p>
-        ${jsonData[i].pantheon}
+        ${jsonData[i].type}
         </p>
         <p>
-        ${jsonData[i].role}
+        ${jsonData[i].description}
         </p>
         
         </div>
