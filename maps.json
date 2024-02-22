@@ -24,86 +24,50 @@
     "image": "https://th.bing.com/th/id/R.43f9d3568315adc9a39ca288ae7f3b12?rik=I1VxsTEQPp395Q&riu=http%3a%2f%2fmedia.comicbook.com%2f2018%2f01%2foverwatch-blizzard-2-1075363.jpeg&ehk=fhOo7LqynBCH5EDHyfsuwtWY0PyRA6vV%2fMt0xr9D19E%3d&risl=&pid=ImgRaw&r=0"
   },
   {
-    "id": "gibof",
-    "name": "Gibraltar",
-    "type": "Escort",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg"
-  },
-  {
     "id": "gibdef",
     "name": "Gibraltar",
     "type": "Escort",
+    "description": "At its height, Overwatch maintained a number of bases around the world, each with its own purpose: peacekeeping, scientific research, or in the case of Watchpoint: Gibraltar, providing an orbital launch facility. The base was mothballed along with the rest of Overwatch's installations, but there have been recent reports of activity within the perimeter. Could this indicate the presence of former Overwatch agents, or is this the work of organizations with more nefarious intentions?",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/gibraltar-thumb.jpg"
-  },
-  {
-    "id": "dorof",
-    "name": "Dorado",
-    "type": "Escort",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg"
   },
   {
     "id": "dordef",
     "name": "Dorado",
     "type": "Escort",
+    "description": "It is Festival de la Luz in Dorado, an annual celebration of the end of the Omnic Crisis and the period of darkness – both figurative and literal – that engulfed Mexico when the omnics destroyed much of the country’s power grid and infrastructure. But there is a new dawn, as LumériCo and its CEO, war hero and former president Guillermo Portero, are unveiling a string of fusion plants that promise to deliver clean, free energy to the Mexican people.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/dorado-thumb.jpg"
-  },
-  {
-    "id": "rouof",
-    "name": "Route 66",
-    "type": "Escort",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg"
   },
   {
     "id": "roudef",
     "name": "Route 66",
     "type": "Escort",
+    "description": "Though the travelers and road trippers who used to cross the US on historic Route 66 are gone, the Main Street of America still stands, a testament to a simpler time. The gas stations, roadside shops, and cafes have gone into disuse, and the fabled Deadlock Gorge is mostly seen from the comfort of transcontinental train cars. But amid the fading monuments of that earlier era, the outlaws of the Deadlock Gang are planning their biggest heist yet.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/route-66-thumb.jpg"
-  },
-  {
-    "id": "anuof",
-    "name": "Temple of Anubis",
-    "type": "Assault",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg"
   },
   {
     "id": "anudef",
     "name": "Temple of Anubis",
     "type": "Assault",
+    "description": "Nestled among the ancient ruins of the Giza Plateau on the outskirts of Cairo, the Temple of Anubis is one of many new excavations in the area. While most believe that the site is of interest for archaelogical reasons, it also hides the entrance to a research facility that extends deep beneath the earth. The facility is alleged to house an artificial intelligence, but the whole truth is known only to a select few. Not even the agents of Helix Security International who guard the facility know what they're protecting.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/temple-of-anubis-thumb.jpg"
-  },
-  {
-    "id": "hanof",
-    "name": "Hanamura",
-    "type": "Assault",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg"
   },
   {
     "id": "handef",
     "name": "Hanamura",
     "type": "Assault",
+    "description": "Hanamura is a well-preserved village of unassuming shops and quiet streets, known mostly for its idyllic cherry blossom festival every spring. But to those who know its history, Hanamura is the ancestral home of the Shimada ninja clan, which had grown over the centuries to become a powerful criminal organization. As its neighboring cities expanded, Hanamura was encircled, and eventually it was incorporated as a district within a larger city. For now, the imposing compound of the Shimada family lies empty, but that peace may soon be broken.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hanamura-thumb.jpg"
-  },
-  {
-    "id": "volof",
-    "name": "Volskaya",
-    "type": "Assault",
-    "mode": "O",
-    "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg"
   },
   {
     "id": "voldef",
     "name": "Volskaya",
     "type": "Assault",
+    "description": "Russia was one of the countries hit hardest by the Omnic Crisis, but during the rebuilding process, it rode the wave of the mechanized labor industry's revitalization and entered a period of rapid growth. However, after recent attacks from the long-dormant Siberian omnium, Russia has returned to war footing, guarding its sparkling cities with the massive, human-piloted Svyatogor mechs developed and produced by Volskaya Industries.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/volskaya-thumb.jpg"
   },
@@ -111,22 +75,23 @@
     "id": "kindef",
     "name": "King's Row",
     "type": "Hybrid",
+    "description": "King's Row is an upscale, cosmopolitan neighborhood of London, England, but just beneath its peaceful surface, tensions between omnics and humans are running high. While much of modern Britain was built on the backs of omnic laborers, they have been denied the basic rights that humans have, with most omnics forced to live in the dense, claustrophobic city-beneath-the-city known by some as the Underworld. Of greater concern is that recent demonstrations by pro-omnic-rights protestors have resulted in violent clashes with the police, and a solution is nowhere in sight.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/kings-row-thumb.jpg"
   },
- 
   {
     "id": "numdef",
     "name": "Numbani",
     "type": "Hybrid",
+    "description": "Known as the City of Harmony, Numbani is one of the few places where omnics and humans live as equals. This collaboration has led to the creation of one of the world's greatest and most technologically advanced cities in the short time since its establishment after the end of the Omnic Crisis. As part of this year's Unity Day festivities celebrating the city's founding, the gauntlet of the infamous Doomfist is being exhibited at the Numbani Heritage Museum.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/numbani-thumb.jpg"
   },
-  
   {
     "id": "holdef",
     "name": "Hollywood",
     "type": "Hybrid",
+    "description": "Welcome to the glitz and glamour of Hollywood, California, where palm trees and fancy cars line the streets, and movie stars, directors, and high-powered studio executives rub shoulders for a chat and a drink at Galand's. Down the street from the Mandarin Theatre, Goldshire Studios' omnic film auteur, HAL-Fred Glitchbot, has created his two latest films, They Come from Beyond the Moon and Six-Gun Killer, to varying amounts of critical and commercial acclaim. However, even Tinseltown has been gripped by anti-omnic sentiment, and the outspoken director has become a prime target in the escalating conflict.",
     "mode": "D",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/hollywood-thumb.jpg"
   },
@@ -134,6 +99,7 @@
     "id": "lij",
     "name": "Lijiang",
     "type": "KOTH",
+    "description": "Lijiang Tower was built in the heart of a modern Chinese metropolis, its busy streets lined with stores, gardens, restaurants, and famous night markets. The tower itself is home to one of the leading companies in China's state-of-the-art space industry, Lucheng Interstellar, an organization with a long pioneering history that is currently pushing the boundaries of space exploration.",
     "mode": "KOTH",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/lijiang-thumb.jpg"
   },
@@ -141,6 +107,7 @@
     "id": "nep",
     "name": "Nepal",
     "type": "KOTH",
+    "description": "Years ago, a group of omnic robots experienced what they described as a spiritual awakening. They abandoned their programmed lives to establish a monastery high in the Himalayas, where like-minded omnics could gather to meditate on the nature of their existence. Led by their spiritual leader, Tekhartha Mondatta, they took over the ruins of an ancient monastery and turned it into the home of the Shambali, a place where omnics and humans alike make pilgrimages in the hopes of finding a greater truth.",
     "mode": "KOTH",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/nepal-thumb.jpg"
   },
@@ -148,6 +115,7 @@
     "id": "ill",
     "name": "Illios",
     "type": "KOTH",
+    "description": "Ilios is located in the Aegean sea of Greece, which is part of the Mediterranean Sea. Situated atop a small island rising from the Aegean Sea, Ilios is a postcard-perfect Mediterranean town, with a bustling harborside, winding paths for rambling hillside strolls, and gorgeous vistas. It is the ideal vacation stop for people looking for a place to relax, or for those interested in exploring the ruins scattered at the top of the island, where many artifacts and relics of the ancient world have been recently unearthed. The ruins were declared an internationally protected heritage site. However, Talon attempted to steal the artifacts.",
     "mode": "KOTH",
     "image": "https://blzgdapipro-a.akamaihd.net/images/pages/game/maps-section/ilios-thumb.jpg"
   }
